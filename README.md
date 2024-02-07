@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a motivated data wizard skilled in SQL, Python, R, PowerBI, and Excel. Experienced in gathering, cleaning, analyzing, and visualizing data to drive insights. Passionate about leveraging data to enable data-driven decision making.
+
+📫 How to reach me: ...
+LinkedIn: linkedin.com/in/jadhav-saurabh
+Email: saurabhjadhav45v1@gmail.com
 
 <!--
 **sau-dj/sau-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
