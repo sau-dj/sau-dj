@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a motivated data wizard skilled in SQL, Python, R, PowerBI, and Excel. Experienced in gathering, cleaning, analyzing, and visualizing data to drive insights. Passionate about leveraging data to enable data-driven decision making.
+I'm a data wizard skilled in SQL, Python, R, PowerBI, and Excel. Experienced in gathering, cleaning, analyzing, and visualizing data to drive insights. Passionate about leveraging data to enable data-driven decision-making.
 
 📫 How to reach me: ...
 LinkedIn: [linkedin.com/in/jadhav-saurabh](https://www.linkedin.com/in/jadhav-saurabh/)
